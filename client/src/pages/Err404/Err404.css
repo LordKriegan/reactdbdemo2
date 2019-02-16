@@ -1,0 +1,10 @@
+#pg404 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.err404 {
+    color: #ffffff;
+}
